@@ -31,9 +31,9 @@ Feel free to reach out:
 ## Projects
 Here are some of the projects I have worked on:
 
-- SpendSmart: Budget tracking application.
-- Ninja Monkey Game: Interactive side-scrolling game.
-- Run Through Berlin: Event platform for joining and organizing running events in Berlin.
+- SpendSmart: Budget tracking application. 2 repositories: [Backend](https://github.com/Muzna-J/budget-tracker-server) and [Frontend](https://github.com/Muzna-J/budget-tracker-client).
+- [Ninja Monkey Game](https://github.com/Muzna-J/NinjaMonkeyGame): Interactive side-scrolling game.
+- [Run Through Berlin](https://github.com/Muzna-J/Running-App): Event platform for joining and organizing running events in Berlin.
 
 ## Open Source Contribution
 I'd like to contribute to open-source projects and believe in the power of collaboration.
