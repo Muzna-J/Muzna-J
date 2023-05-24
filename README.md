@@ -21,7 +21,6 @@ Feel free to reach out:
 - Web Development: React.js, Node.js, Express.js, MongoDB, HTML/CSS/Bootstrap, P5.js
 - Version Control: Git, GitHub
 - Linux Administration: Ubuntu
-- Project Management: Atlassian Products (Jira, Confluence)
 
 ## Education
 - IronHack Web Development Bootcamp, 2023
